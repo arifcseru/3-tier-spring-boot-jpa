@@ -1,0 +1,8 @@
+/root/demo_app/src/main/java/secondApp/jpa/crud/domain/CustomerRepository.java
+/root/demo_app/src/main/java/secondApp/jpa/crud/WebApp.java
+/root/demo_app/src/main/java/secondApp/jpa/crud/domain/Order.java
+/root/demo_app/src/main/java/secondApp/jpa/crud/domain/Product.java
+/root/demo_app/src/main/java/secondApp/jpa/crud/domain/PhoneNumber.java
+/root/demo_app/src/main/java/secondApp/jpa/crud/controller/CustomerController.java
+/root/demo_app/src/main/java/secondApp/jpa/crud/domain/Customer.java
+/root/demo_app/src/main/java/secondApp/jpa/crud/domain/Item.java

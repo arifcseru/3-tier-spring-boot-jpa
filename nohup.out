@@ -1,0 +1,454 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building second.jpa.crud 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) > test-compile @ second.jpa.crud >>>
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ second.jpa.crud ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 6 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ second.jpa.crud ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 8 source files to /root/secondApp.jpa.crud/target/classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /root/secondApp.jpa.crud/src/main/java/secondApp/jpa/crud/WebApp.java:[11,39] cannot find symbol
+  symbol:   class RemoteUpdateTestApplication
+  location: class secondApp.jpa.crud.WebApp
+[INFO] 1 error
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 5.256 s
+[INFO] Finished at: 2018-07-02T13:41:22-04:00
+[INFO] Final Memory: 28M/67M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project second.jpa.crud: Compilation failure
+[ERROR] /root/secondApp.jpa.crud/src/main/java/secondApp/jpa/crud/WebApp.java:[11,39] cannot find symbol
+[ERROR] symbol:   class RemoteUpdateTestApplication
+[ERROR] location: class secondApp.jpa.crud.WebApp
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building second.jpa.crud 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) > test-compile @ second.jpa.crud >>>
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ second.jpa.crud ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 6 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ second.jpa.crud ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 8 source files to /root/secondApp.jpa.crud/target/classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /root/secondApp.jpa.crud/src/main/java/secondApp/jpa/crud/WebApp.java:[11,39] cannot find symbol
+  symbol:   class RemoteUpdateTestApplication
+  location: class secondApp.jpa.crud.WebApp
+[INFO] 1 error
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 5.183 s
+[INFO] Finished at: 2018-07-02T13:42:27-04:00
+[INFO] Final Memory: 28M/67M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project second.jpa.crud: Compilation failure
+[ERROR] /root/secondApp.jpa.crud/src/main/java/secondApp/jpa/crud/WebApp.java:[11,39] cannot find symbol
+[ERROR] symbol:   class RemoteUpdateTestApplication
+[ERROR] location: class secondApp.jpa.crud.WebApp
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building second.jpa.crud 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) > test-compile @ second.jpa.crud >>>
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ second.jpa.crud ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 6 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ second.jpa.crud ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ second.jpa.crud ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/secondApp.jpa.crud/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ second.jpa.crud ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] <<< spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) < test-compile @ second.jpa.crud <<<
+[INFO] 
+[INFO] --- spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) @ second.jpa.crud ---
+[INFO] Attaching agents: []
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.4.1.RELEASE)
+
+2018-07-02 14:11:25.201  INFO 5203 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Starting WebApp on wingbangla with PID 5203 (/root/secondApp.jpa.crud/target/classes started by root in /root/secondApp.jpa.crud)
+2018-07-02 14:11:25.211  INFO 5203 --- [  restartedMain] secondApp.jpa.crud.WebApp                : No active profile set, falling back to default profiles: default
+2018-07-02 14:11:26.108  INFO 5203 --- [  restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4b8af1a6: startup date [Mon Jul 02 14:11:26 EDT 2018]; root of context hierarchy
+2018-07-02 14:11:29.877  INFO 5203 --- [  restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5548be05] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-07-02 14:11:31.196  INFO 5203 --- [  restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8443 (http)
+2018-07-02 14:11:31.237  INFO 5203 --- [  restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-07-02 14:11:31.240  INFO 5203 --- [  restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.5
+2018-07-02 14:11:31.475  INFO 5203 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-07-02 14:11:31.475  INFO 5203 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 5379 ms
+2018-07-02 14:11:31.889  WARN 5203 --- [ost-startStop-1] .s.b.d.a.RemoteDevToolsAutoConfiguration : Listening for remote debug traffic on /.~~spring-boot!~/debug
+2018-07-02 14:11:31.918  WARN 5203 --- [ost-startStop-1] .s.b.d.a.RemoteDevToolsAutoConfiguration : Listening for remote restart updates on /.~~spring-boot!~/restart
+2018-07-02 14:11:31.945  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2018-07-02 14:11:31.953  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-07-02 14:11:31.955  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-07-02 14:11:31.955  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-07-02 14:11:31.955  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-07-02 14:11:31.955  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'remoteDevToolsDispatcherFilter' to: [/*]
+2018-07-02 14:11:32.517  INFO 5203 --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Building JPA container EntityManagerFactory for persistence unit 'default'
+2018-07-02 14:11:32.554  INFO 5203 --- [  restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2018-07-02 14:11:32.710  INFO 5203 --- [  restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.0.11.Final}
+2018-07-02 14:11:32.714  INFO 5203 --- [  restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2018-07-02 14:11:32.716  INFO 5203 --- [  restartedMain] org.hibernate.cfg.Environment            : HHH000021: Bytecode provider name : javassist
+2018-07-02 14:11:32.801  INFO 5203 --- [  restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:33 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+2018-07-02 14:11:33.857  INFO 5203 --- [  restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-02 14:11:34.823  INFO 5203 --- [  restartedMain] org.hibernate.tool.hbm2ddl.SchemaUpdate  : HHH000228: Running hbm2ddl schema update
+2018-07-02 14:11:35.112  INFO 5203 --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2018-07-02 14:11:36.174  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4b8af1a6: startup date [Mon Jul 02 14:11:26 EDT 2018]; root of context hierarchy
+2018-07-02 14:11:36.321  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/new],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.newProject()
+2018-07-02 14:11:36.324  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/{id}/edit],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.edit(long,org.springframework.ui.Model)
+2018-07-02 14:11:36.325  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/list],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.listPosts(org.springframework.ui.Model)
+2018-07-02 14:11:36.325  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/update],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.update(long,java.lang.String)
+2018-07-02 14:11:36.326  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/{id}/delete],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.delete(long)
+2018-07-02 14:11:36.327  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/create],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.create(java.lang.String)
+2018-07-02 14:11:36.331  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-02 14:11:36.334  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-07-02 14:11:36.415  INFO 5203 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:11:36.416  INFO 5203 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:11:36.501  INFO 5203 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:11:37.638  INFO 5203 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-07-02 14:11:37.771  INFO 5203 --- [  restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-07-02 14:11:37.888  INFO 5203 --- [  restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8443 (http)
+2018-07-02 14:11:38.128  INFO 5203 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Started WebApp in 13.952 seconds (JVM running for 14.762)
+2018-07-02 14:11:51.043  INFO 5203 --- [       Thread-6] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4b8af1a6: startup date [Mon Jul 02 14:11:26 EDT 2018]; root of context hierarchy
+2018-07-02 14:11:51.059  INFO 5203 --- [       Thread-6] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-07-02 14:11:51.067  INFO 5203 --- [       Thread-6] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.4.1.RELEASE)
+
+2018-07-02 14:11:51.654  INFO 5203 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Starting WebApp on wingbangla with PID 5203 (/root/secondApp.jpa.crud/target/classes started by root in /root/secondApp.jpa.crud)
+2018-07-02 14:11:51.654  INFO 5203 --- [  restartedMain] secondApp.jpa.crud.WebApp                : No active profile set, falling back to default profiles: default
+2018-07-02 14:11:51.662  INFO 5203 --- [  restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@685c3655: startup date [Mon Jul 02 14:11:51 EDT 2018]; root of context hierarchy
+2018-07-02 14:11:54.024  INFO 5203 --- [  restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5548be05] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-07-02 14:11:54.337  INFO 5203 --- [  restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8443 (http)
+2018-07-02 14:11:54.342  INFO 5203 --- [  restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-07-02 14:11:54.342  INFO 5203 --- [  restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.5
+2018-07-02 14:11:54.388  INFO 5203 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-07-02 14:11:54.389  INFO 5203 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2727 ms
+2018-07-02 14:11:54.610  WARN 5203 --- [ost-startStop-1] .s.b.d.a.RemoteDevToolsAutoConfiguration : Listening for remote debug traffic on /.~~spring-boot!~/debug
+2018-07-02 14:11:54.631  WARN 5203 --- [ost-startStop-1] .s.b.d.a.RemoteDevToolsAutoConfiguration : Listening for remote restart updates on /.~~spring-boot!~/restart
+2018-07-02 14:11:54.651  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2018-07-02 14:11:54.651  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-07-02 14:11:54.655  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-07-02 14:11:54.655  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-07-02 14:11:54.655  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-07-02 14:11:54.655  INFO 5203 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'remoteDevToolsDispatcherFilter' to: [/*]
+2018-07-02 14:11:55.097  INFO 5203 --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Building JPA container EntityManagerFactory for persistence unit 'default'
+2018-07-02 14:11:55.099  INFO 5203 --- [  restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:11:55 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+2018-07-02 14:11:55.496  INFO 5203 --- [  restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-02 14:11:55.872  INFO 5203 --- [  restartedMain] org.hibernate.tool.hbm2ddl.SchemaUpdate  : HHH000228: Running hbm2ddl schema update
+2018-07-02 14:11:56.128  INFO 5203 --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2018-07-02 14:11:56.866  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@685c3655: startup date [Mon Jul 02 14:11:51 EDT 2018]; root of context hierarchy
+2018-07-02 14:11:56.928  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/new],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.newProject()
+2018-07-02 14:11:56.928  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/{id}/edit],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.edit(long,org.springframework.ui.Model)
+2018-07-02 14:11:56.928  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/list],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.listPosts(org.springframework.ui.Model)
+2018-07-02 14:11:56.938  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/update],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.update(long,java.lang.String)
+2018-07-02 14:11:56.939  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/{id}/delete],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.delete(long)
+2018-07-02 14:11:56.940  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/create],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.create(java.lang.String)
+2018-07-02 14:11:56.973  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-02 14:11:56.978  INFO 5203 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-07-02 14:11:57.029  INFO 5203 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:11:57.029  INFO 5203 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:11:57.110  INFO 5203 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:11:57.559  INFO 5203 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-07-02 14:11:57.866  INFO 5203 --- [  restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-07-02 14:11:57.985  INFO 5203 --- [  restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8443 (http)
+2018-07-02 14:11:57.988  INFO 5203 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Started WebApp in 6.498 seconds (JVM running for 34.622)
+2018-07-02 14:12:08.062  INFO 5203 --- [nio-8443-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-07-02 14:12:08.064  INFO 5203 --- [nio-8443-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2018-07-02 14:12:08.134  INFO 5203 --- [nio-8443-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 69 ms
+Hibernate: insert into customer (cust_name) values (?)
+2018-07-02 14:12:16.077  INFO 5203 --- [nio-8443-exec-4] o.h.h.i.QueryTranslatorFactoryInitiator  : HHH000397: Using ASTQueryTranslatorFactory
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building second.jpa.crud 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) > test-compile @ second.jpa.crud >>>
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ second.jpa.crud ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 6 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ second.jpa.crud ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ second.jpa.crud ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/secondApp.jpa.crud/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ second.jpa.crud ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] <<< spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) < test-compile @ second.jpa.crud <<<
+[INFO] 
+[INFO] --- spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) @ second.jpa.crud ---
+[INFO] Attaching agents: []
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.4.1.RELEASE)
+
+2018-07-02 14:15:32.637  INFO 5515 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Starting WebApp on wingbangla with PID 5515 (/root/secondApp.jpa.crud/target/classes started by root in /root/secondApp.jpa.crud)
+2018-07-02 14:15:32.650  INFO 5515 --- [  restartedMain] secondApp.jpa.crud.WebApp                : No active profile set, falling back to default profiles: default
+2018-07-02 14:15:33.569  INFO 5515 --- [  restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1e0f519: startup date [Mon Jul 02 14:15:33 EDT 2018]; root of context hierarchy
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 8.461 s
+[INFO] Finished at: 2018-07-02T14:15:33-04:00
+[INFO] Final Memory: 20M/48M
+[INFO] ------------------------------------------------------------------------
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building second.jpa.crud 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] >>> spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) > test-compile @ second.jpa.crud >>>
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ second.jpa.crud ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 6 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ second.jpa.crud ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ second.jpa.crud ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory /root/secondApp.jpa.crud/src/test/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ second.jpa.crud ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] <<< spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) < test-compile @ second.jpa.crud <<<
+[INFO] 
+[INFO] --- spring-boot-maven-plugin:1.4.1.RELEASE:run (default-cli) @ second.jpa.crud ---
+[INFO] Attaching agents: []
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.4.1.RELEASE)
+
+2018-07-02 14:16:26.441  INFO 5679 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Starting WebApp on wingbangla with PID 5679 (/root/secondApp.jpa.crud/target/classes started by root in /root/secondApp.jpa.crud)
+2018-07-02 14:16:26.451  INFO 5679 --- [  restartedMain] secondApp.jpa.crud.WebApp                : No active profile set, falling back to default profiles: default
+2018-07-02 14:16:27.416  INFO 5679 --- [  restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4b8af1a6: startup date [Mon Jul 02 14:16:27 EDT 2018]; root of context hierarchy
+2018-07-02 14:16:31.222  INFO 5679 --- [  restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5548be05] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-07-02 14:16:32.598  INFO 5679 --- [  restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8443 (http)
+2018-07-02 14:16:32.632  INFO 5679 --- [  restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-07-02 14:16:32.634  INFO 5679 --- [  restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.5
+2018-07-02 14:16:32.879  INFO 5679 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-07-02 14:16:32.879  INFO 5679 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 5472 ms
+2018-07-02 14:16:33.302  WARN 5679 --- [ost-startStop-1] .s.b.d.a.RemoteDevToolsAutoConfiguration : Listening for remote debug traffic on /.~~spring-boot!~/debug
+2018-07-02 14:16:33.337  WARN 5679 --- [ost-startStop-1] .s.b.d.a.RemoteDevToolsAutoConfiguration : Listening for remote restart updates on /.~~spring-boot!~/restart
+2018-07-02 14:16:33.366  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2018-07-02 14:16:33.373  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-07-02 14:16:33.375  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-07-02 14:16:33.375  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-07-02 14:16:33.375  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-07-02 14:16:33.375  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'remoteDevToolsDispatcherFilter' to: [/*]
+2018-07-02 14:16:34.060  INFO 5679 --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Building JPA container EntityManagerFactory for persistence unit 'default'
+2018-07-02 14:16:34.097  INFO 5679 --- [  restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2018-07-02 14:16:34.265  INFO 5679 --- [  restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.0.11.Final}
+2018-07-02 14:16:34.267  INFO 5679 --- [  restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2018-07-02 14:16:34.271  INFO 5679 --- [  restartedMain] org.hibernate.cfg.Environment            : HHH000021: Bytecode provider name : javassist
+2018-07-02 14:16:34.363  INFO 5679 --- [  restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:35 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+2018-07-02 14:16:35.616  INFO 5679 --- [  restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-02 14:16:36.722  INFO 5679 --- [  restartedMain] org.hibernate.tool.hbm2ddl.SchemaUpdate  : HHH000228: Running hbm2ddl schema update
+2018-07-02 14:16:36.999  INFO 5679 --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2018-07-02 14:16:38.020  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4b8af1a6: startup date [Mon Jul 02 14:16:27 EDT 2018]; root of context hierarchy
+2018-07-02 14:16:38.209  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/new],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.newProject()
+2018-07-02 14:16:38.211  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/{id}/edit],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.edit(long,org.springframework.ui.Model)
+2018-07-02 14:16:38.211  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/list],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.listPosts(org.springframework.ui.Model)
+2018-07-02 14:16:38.213  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/update],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.update(long,java.lang.String)
+2018-07-02 14:16:38.213  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/{id}/delete],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.delete(long)
+2018-07-02 14:16:38.215  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/create],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.create(java.lang.String)
+2018-07-02 14:16:38.220  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-02 14:16:38.222  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-07-02 14:16:38.305  INFO 5679 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:16:38.307  INFO 5679 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:16:38.396  INFO 5679 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:16:40.056  INFO 5679 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-07-02 14:16:40.312  INFO 5679 --- [  restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-07-02 14:16:40.509  INFO 5679 --- [  restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8443 (http)
+2018-07-02 14:16:40.522  INFO 5679 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Started WebApp in 15.15 seconds (JVM running for 15.997)
+2018-07-02 14:16:48.420  INFO 5679 --- [       Thread-6] ationConfigEmbeddedWebApplicationContext : Closing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@4b8af1a6: startup date [Mon Jul 02 14:16:27 EDT 2018]; root of context hierarchy
+2018-07-02 14:16:48.435  INFO 5679 --- [       Thread-6] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-07-02 14:16:48.440  INFO 5679 --- [       Thread-6] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v1.4.1.RELEASE)
+
+2018-07-02 14:16:49.070  INFO 5679 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Starting WebApp on wingbangla with PID 5679 (/root/secondApp.jpa.crud/target/classes started by root in /root/secondApp.jpa.crud)
+2018-07-02 14:16:49.071  INFO 5679 --- [  restartedMain] secondApp.jpa.crud.WebApp                : No active profile set, falling back to default profiles: default
+2018-07-02 14:16:49.088  INFO 5679 --- [  restartedMain] ationConfigEmbeddedWebApplicationContext : Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@16127417: startup date [Mon Jul 02 14:16:49 EDT 2018]; root of context hierarchy
+2018-07-02 14:16:51.685  INFO 5679 --- [  restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5548be05] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2018-07-02 14:16:52.139  INFO 5679 --- [  restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat initialized with port(s): 8443 (http)
+2018-07-02 14:16:52.145  INFO 5679 --- [  restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2018-07-02 14:16:52.145  INFO 5679 --- [  restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.5
+2018-07-02 14:16:52.202  INFO 5679 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2018-07-02 14:16:52.202  INFO 5679 --- [ost-startStop-1] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 3124 ms
+2018-07-02 14:16:52.513  WARN 5679 --- [ost-startStop-1] .s.b.d.a.RemoteDevToolsAutoConfiguration : Listening for remote debug traffic on /.~~spring-boot!~/debug
+2018-07-02 14:16:52.541  WARN 5679 --- [ost-startStop-1] .s.b.d.a.RemoteDevToolsAutoConfiguration : Listening for remote restart updates on /.~~spring-boot!~/restart
+2018-07-02 14:16:52.570  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.ServletRegistrationBean  : Mapping servlet: 'dispatcherServlet' to [/]
+2018-07-02 14:16:52.576  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2018-07-02 14:16:52.576  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2018-07-02 14:16:52.576  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2018-07-02 14:16:52.576  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2018-07-02 14:16:52.576  INFO 5679 --- [ost-startStop-1] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'remoteDevToolsDispatcherFilter' to: [/*]
+2018-07-02 14:16:53.166  INFO 5679 --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Building JPA container EntityManagerFactory for persistence unit 'default'
+2018-07-02 14:16:53.166  INFO 5679 --- [  restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon Jul 02 14:16:53 EDT 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+2018-07-02 14:16:53.707  INFO 5679 --- [  restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-02 14:16:54.151  INFO 5679 --- [  restartedMain] org.hibernate.tool.hbm2ddl.SchemaUpdate  : HHH000228: Running hbm2ddl schema update
+2018-07-02 14:16:54.523  INFO 5679 --- [  restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2018-07-02 14:16:55.290  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@16127417: startup date [Mon Jul 02 14:16:49 EDT 2018]; root of context hierarchy
+2018-07-02 14:16:55.338  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/new],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.newProject()
+2018-07-02 14:16:55.341  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/{id}/edit],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.edit(long,org.springframework.ui.Model)
+2018-07-02 14:16:55.341  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/list],methods=[GET]}" onto public java.lang.String secondApp.jpa.crud.controller.CustomerController.listPosts(org.springframework.ui.Model)
+2018-07-02 14:16:55.341  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/update],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.update(long,java.lang.String)
+2018-07-02 14:16:55.345  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/{id}/delete],methods=[GET]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.delete(long)
+2018-07-02 14:16:55.346  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/customer/create],methods=[POST]}" onto public org.springframework.web.servlet.ModelAndView secondApp.jpa.crud.controller.CustomerController.create(java.lang.String)
+2018-07-02 14:16:55.369  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2018-07-02 14:16:55.371  INFO 5679 --- [  restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2018-07-02 14:16:55.418  INFO 5679 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:16:55.419  INFO 5679 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:16:55.492  INFO 5679 --- [  restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2018-07-02 14:16:55.865  INFO 5679 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2018-07-02 14:16:56.124  INFO 5679 --- [  restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2018-07-02 14:16:56.213  INFO 5679 --- [  restartedMain] s.b.c.e.t.TomcatEmbeddedServletContainer : Tomcat started on port(s): 8443 (http)
+2018-07-02 14:16:56.217  INFO 5679 --- [  restartedMain] secondApp.jpa.crud.WebApp                : Started WebApp in 7.323 seconds (JVM running for 31.691)
+2018-07-02 14:17:14.269  INFO 5679 --- [nio-8443-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2018-07-02 14:17:14.271  INFO 5679 --- [nio-8443-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2018-07-02 14:17:14.304  INFO 5679 --- [nio-8443-exec-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 33 ms
+2018-07-02 14:17:14.456  INFO 5679 --- [nio-8443-exec-1] o.h.h.i.QueryTranslatorFactoryInitiator  : HHH000397: Using ASTQueryTranslatorFactory
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_
+Hibernate: select customer0_.id as id1_0_, customer0_.cust_name as cust_nam2_0_ from customer customer0_

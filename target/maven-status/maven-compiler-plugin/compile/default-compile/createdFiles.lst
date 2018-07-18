@@ -1,0 +1,8 @@
+secondApp/jpa/crud/domain/Item.class
+secondApp/jpa/crud/WebApp.class
+secondApp/jpa/crud/domain/PhoneNumber.class
+secondApp/jpa/crud/domain/Customer.class
+secondApp/jpa/crud/controller/CustomerController.class
+secondApp/jpa/crud/domain/CustomerRepository.class
+secondApp/jpa/crud/domain/Order.class
+secondApp/jpa/crud/domain/Product.class

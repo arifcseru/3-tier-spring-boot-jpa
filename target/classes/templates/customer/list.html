@@ -1,0 +1,38 @@
+<html layout:decorator="layout">
+
+<div layout:fragment="content">
+
+	<a class="btn btn-primary" href="/customer/new">Add new post</a>
+	<br />
+	<br />
+	
+	<table class="table table-striped" id="posts_list">
+		<thead>
+			<tr>
+				
+				<th>Comments</th>
+				<th>Action</th>
+				<th></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr data-th-each="customer : ${customerList}">
+				<td class="message" data-th-text="${customer.custName}"></td>
+
+				<td><a th:href="@{'/customer/{id}/delete'(id=${customer.id})}"
+					class="delete"> <span
+						class="fa-stack"> <i class="glyphicon glyphicon-trash"></i>
+					</span>
+				</a></td>
+
+				<td><a th:href="@{'/customer/{id}/edit'(id=${customer.id})}"
+					class="edit"> <span
+						class="fa-stack"> <i class="glyphicon glyphicon-edit"></i>
+					</span>
+
+				</a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+</html>
